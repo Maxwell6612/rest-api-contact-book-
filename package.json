@@ -1,0 +1,20 @@
+{
+  "name": "rest-api-probe",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "maxwell6612",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2",
+    "v4": "^0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
